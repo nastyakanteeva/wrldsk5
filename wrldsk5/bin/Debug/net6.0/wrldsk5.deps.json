@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "wrldsk5/1.0.0": {
+        "runtime": {
+          "wrldsk5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wrldsk5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
